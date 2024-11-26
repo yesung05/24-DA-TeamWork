@@ -10,10 +10,10 @@
 - 위 분석을 하여 혼잡시간을 피하여 통학을 가능하게 함으로써, 더욱 편리한 대중교통 이용이 가능함
 
 ### 3. 시장조사 현황
-- ![통계청](https://kostat.go.kr)
-- ![서울 열린 데이터광장](https://data.seoul.go.kr/)
-- ![경기 데이터드림](https://data.gg.go.kr/)
-- ![티머니](https://pay.tmoney.co.kr/)
+- * ![통계청](https://kostat.go.kr)
+- * ![서울 열린 데이터광장](https://data.seoul.go.kr/)
+- * ![경기 데이터드림](https://data.gg.go.kr/)
+- * ![티머니](https://pay.tmoney.co.kr/)
 
 ## 학교 근처 대중교통의 퇴근 혼잡 시간대 이용객 분석
 ### 개발 과젝 요약
