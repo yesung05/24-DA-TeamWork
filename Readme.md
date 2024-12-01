@@ -21,4 +21,5 @@
 - 분석한 결과를 가지고 보고서 제작
 
 ## 주피터 노트북 활용
-- matplotlib, numpy 활용
+- 사용한 IDE: Visual Studio Code 
+- 사용한 라이브러리:  matplotlib, numpy 활용
