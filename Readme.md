@@ -15,6 +15,9 @@
 - [경기 데이터드림](https://data.gg.go.kr/)
 - [티머니](https://pay.tmoney.co.kr/)
 
+### 4. 채택 데이터
+- [서울특별시_버스노선별 정류장별 시간대별 승하차 인원 정보](https://data.seoul.go.kr/dataList/OA-12912/S/1/datasetView.do)
+
 ## 학교 근처 대중교통의 퇴근 혼잡 시간대 이용객 분석
 ### 개발 과제 요약
 - 시간대별 학교 근처 버스 등 대중교통의 이용 인원 분석
