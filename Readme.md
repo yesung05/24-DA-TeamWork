@@ -22,4 +22,4 @@
 
 ## 주피터 노트북 활용
 - 사용한 IDE: Visual Studio Code 
-- 사용한 라이브러리:  matplotlib, numpy 활용
+- 사용한 라이브러리:  matplotlib, numpy, pandas 활용
